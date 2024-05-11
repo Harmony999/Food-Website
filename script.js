@@ -9,5 +9,3 @@ menu.addEventListener("click", function () {
 window.onscroll = () => {
   navbar.clickList.remove("active");
 };
-
-alert("Hello World")
